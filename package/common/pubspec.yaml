@@ -9,5 +9,11 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_bloc: any
+  hive: any
+  hive_flutter: any
+  get_it: any
+  dio: any
+
 dev_dependencies:
   flutter_lints: ^2.0.0
