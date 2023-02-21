@@ -1,0 +1,9 @@
+name: scripts
+publish_to: none
+
+dependencies:
+  dart_style: any
+
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
